@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">app</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="usuario">Usuario</string>
+    <string name="ingrese_su_usuario">Ingrese su usuario</string>
+    <string name="ingrese_su_contrase_a">Ingrese su contraseña</string>
+    <string name="cmusic">CMusic</string>
+    <string name="todo">TODO</string>
+    <string name="todoa">TODOa</string>
+    <string name="registro_de_cuenta">Registro De Cuenta</string>
+    <string name="nombre_y_apellido">Nombre y Apellido</string>
+    <string name="ingrese_nombre_de_usuario">Ingrese Nombre de Usuario</string>
+    <string name="ingrese_su_gmail">Ingrese su gmail</string>
+    <string name="ingrese_su_contrase_aj">Ingrese su contraseña</string>
+    <string name="confirmar_contrase_a">Confirmar contraseña</string>
+    <string name="continuar">Continuar</string>
+    <string name="ya_tienes_una_cuenta">¿Ya tienes una cuenta?</string>
+    <string name="iniciar_sesi_n">Iniciar sesión</string>
+    <string name="todoh">TODO</string>
+    <string name="todojk">TODO</string>
+    <string name="registro_de_cuentaa">Registro De Cuenta</string>
+    <string name="aconfirmar_contrase_a">Confirmar contraseña</string>
+    <string name="continuara">Continuar</string>
+    <string name="nombre_y_apellidoa">Nombre y Apellido</string>
+    <string name="ingrese_su_contrase_aa">Ingrese su contraseña</string>
+    <string name="ya_tienes_una_cuentaa">¿Ya tienes una cuenta?</string>
+    <string name="ingrese_su_gmaila">Ingrese su gmail</string>
+    <string name="ingrese_nombre_de_usuarioa">Ingrese Nombre de Usuario</string>
+    <string name="iniciar_sesiona">Iniciar sesion</string>
+    <string name="todoaaa">TODO</string>
+    <string name="todosd">TODO</string>
+    <string name="mapa">Mapa</string>
+    <string name="title_activity_mapa">Mapa</string>
+</resources>
